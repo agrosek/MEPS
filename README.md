@@ -1,7 +1,7 @@
 # MEPS Data Analysis
-This repository is for accessing MEPS data using R & RStudio and analyzing the data using Python & Jupyter Notebooks.
+This repository is for accessing MEPS data using R & R_Studio, and analyzing the data with Python & Jupyter Notebooks.
 
-DUPERSID is the cross-database key for linking patient information.
+DUPERSID is the database key for linking patient information across annual consolidated and prescribed medications.
 
 Codebook: https://tinyurl.com/y25r78pe
 Prescribed Meds: https://tinyurl.com/y66mxlbm
