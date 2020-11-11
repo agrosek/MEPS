@@ -1,5 +1,5 @@
 # Medical Expenditure Panel Survey (MEPS) Data 
-Accessing MEPS data using R & R_Studio, SAS, and STATA, exporting the data to csv, and conducting analysis w/ Python & Jupyter Notebooks.
+Accessing MEPS data (1996-2018) using R & R_Studio, SAS, and STATA, exporting the data to csv, and importing to Jupyter Notebooks for analysis w/ Python.
 
 DUPERSID is the database key for linking patient information across annual consolidated and prescribed medications data sets (links below).
 
