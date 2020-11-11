@@ -1,5 +1,5 @@
 # MEPS Data Science
-Accessing MEPS data using R & R_Studio, and SAS/STATA, exporting the data to csv, and analyzing the data w/ Python & Jupyter Notebooks.
+Accessing MEPS data using R & R_Studio, SAS, and STATA, exporting the data to csv, and conducting analysis w/ Python & Jupyter Notebooks.
 
 DUPERSID is the database key for linking patient information across annual consolidated and prescribed medications data sets (links below).
 
