@@ -10,3 +10,4 @@ Interactive Summary Tables -> https://www.meps.ahrq.gov/mepstrends/home/index.ht
 MEPS Overview -> https://www.meps.ahrq.gov/mepsweb/
 
 REFERENCE GUIDES -> https://github.com/HHS-AHRQ/MEPS/tree/master/Quick_Reference_Guides
+TECHNICAL NOTES -> https://meps.ahrq.gov/survey_comp/ic_technical_notes.shtml
