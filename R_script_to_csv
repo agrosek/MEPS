@@ -9,7 +9,8 @@
 library(readr)
 
 # DEFINE 'meps_path' -----------------------------------------------------------
-# meps_path <- "/Users/alexandergrosek/Desktop/MEPS/2017/ann/h201.dat"
+meps_path <- "/Users/alexandergrosek/Desktop/MEPS/2017/ann/h201.dat"
+
 # 'meps_path' should point to the file path of the ASCII file (h###.dat) 
 
 if(!exists("meps_path")) 
