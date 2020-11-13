@@ -1,0 +1,135 @@
+#### 2018 (HC-209) = write.csv(h209,"/Users/alexandergrosek/Desktop/MEPS/h209.csv", row.names = TRUE)
+
+R: https://www.meps.ahrq.gov/data_stats/download_data/pufs/h209/h209ru.txt
+Link: https://www.meps.ahrq.gov/mepsweb/data_stats/download_data_files_detail.jsp?cboPufNumber=HC-209
+
+
+#### 2017 (HC-201) = write.csv(h201,”/Users/alexandergrosek/Desktop/MEPS/h209.csv", row.names = TRUE)
+R: https://www.meps.ahrq.gov/data_stats/download_data/pufs/h201/h201ru.txt
+Link: https://www.meps.ahrq.gov/mepsweb/data_stats/download_data_files_detail.jsp?cboPufNumber=HC-201
+
+
+#### 2016 (HC-192) = write.csv(h192,”/Users/alexandergrosek/Desktop/MEPS/h209.csv", row.names = TRUE)
+
+SAS: https://www.meps.ahrq.gov/data_stats/download_data/pufs/h192/h192su.txt
+Link: https://www.meps.ahrq.gov/mepsweb/data_stats/download_data_files_detail.jsp?cboPufNumber=HC-192
+
+
+#### 2015 (HC-181) = write.csv(h181,”/Users/alexandergrosek/Desktop/MEPS/h209.csv", row.names = TRUE)
+
+SAS: https://www.meps.ahrq.gov/data_stats/download_data/pufs/h181/h181su.txt
+Link: https://www.meps.ahrq.gov/mepsweb/data_stats/download_data_files_detail.jsp?cboPufNumber=HC-181
+
+
+#### 2014 (HC-171) = write.csv(h171,”/Users/alexandergrosek/Desktop/MEPS/h209.csv", row.names = TRUE)
+
+SAS: https://www.meps.ahrq.gov/data_stats/download_data/pufs/h171/h171su.txt
+Link: https://www.meps.ahrq.gov/mepsweb/data_stats/download_data_files_detail.jsp?cboPufNumber=HC-171
+
+
+#### 2013 (HC-163) = write.csv(h163,”/Users/alexandergrosek/Desktop/MEPS/h209.csv", row.names = TRUE)
+
+SAS: https://www.meps.ahrq.gov/data_stats/download_data/pufs/h163/h163su.txt
+Link: https://www.meps.ahrq.gov/mepsweb/data_stats/download_data_files_detail.jsp?cboPufNumber=HC-163
+
+
+#### 2012 (HC-155) = write.csv(h155,”/Users/alexandergrosek/Desktop/MEPS/h209.csv", row.names = TRUE)
+
+SAS: https://www.meps.ahrq.gov/data_stats/download_data/pufs/h155/h155su.txt
+Link: https://www.meps.ahrq.gov/mepsweb/data_stats/download_data_files_detail.jsp?cboPufNumber=HC-155
+
+
+#### 2011 (HC-147) = write.csv(h147,”/Users/alexandergrosek/Desktop/MEPS/h209.csv", row.names = TRUE)
+
+SAS: https://www.meps.ahrq.gov/data_stats/download_data/pufs/h147/h147su.txt
+Link: https://www.meps.ahrq.gov/mepsweb/data_stats/download_data_files_detail.jsp?cboPufNumber=HC-147
+
+
+#### 2010 (HC-138) = write.csv(h138,”/Users/alexandergrosek/Desktop/MEPS/h209.csv", row.names = TRUE)
+
+SAS: https://www.meps.ahrq.gov/data_stats/download_data/pufs/h138/h138su.txt
+Link: https://www.meps.ahrq.gov/mepsweb/data_stats/download_data_files_detail.jsp?cboPufNumber=HC-138
+
+
+#### 2009 (HC-129) = write.csv(h129,”/Users/alexandergrosek/Desktop/MEPS/h209.csv", row.names = TRUE)
+
+SAS: https://www.meps.ahrq.gov/data_stats/download_data/pufs/h129/h129su.txt
+Link: https://www.meps.ahrq.gov/mepsweb/data_stats/download_data_files_detail.jsp?cboPufNumber=HC-129
+
+
+#### 2008 (HC-121) = write.csv(h121,”/Users/alexandergrosek/Desktop/MEPS/h209.csv", row.names = TRUE)
+
+SAS: https://www.meps.ahrq.gov/data_stats/download_data/pufs/h121/h121su.txt
+Link: https://www.meps.ahrq.gov/mepsweb/data_stats/download_data_files_detail.jsp?cboPufNumber=HC-121
+
+
+#### 2007 (HC-113) = write.csv(h113,”/Users/alexandergrosek/Desktop/MEPS/h209.csv", row.names = TRUE)
+
+SAS: https://www.meps.ahrq.gov/data_stats/download_data/pufs/h113/h113su.txt
+Link: https://www.meps.ahrq.gov/mepsweb/data_stats/download_data_files_detail.jsp?cboPufNumber=HC-113
+
+
+#### 2006 (HC-105) = write.csv(h105,”/Users/alexandergrosek/Desktop/MEPS/h209.csv", row.names = TRUE)
+
+SAS: https://www.meps.ahrq.gov/data_stats/download_data/pufs/h105/h105su.txt
+Link: https://www.meps.ahrq.gov/mepsweb/data_stats/download_data_files_detail.jsp?cboPufNumber=HC-105
+
+
+#### 2005 (HC-097) = write.csv(h097,”/Users/alexandergrosek/Desktop/MEPS/h209.csv", row.names = TRUE)
+
+SAS: https://www.meps.ahrq.gov/data_stats/download_data/pufs/h97/h97su.txt
+Link: https://www.meps.ahrq.gov/mepsweb/data_stats/download_data_files_detail.jsp?cboPufNumber=HC-097
+
+
+#### 2004 (HC-089) = write.csv(h089,”/Users/alexandergrosek/Desktop/MEPS/h209.csv", row.names = TRUE)
+
+SAS: https://www.meps.ahrq.gov/data_stats/download_data/pufs/h89/h89su.txt
+Link: https://www.meps.ahrq.gov/mepsweb/data_stats/download_data_files_detail.jsp?cboPufNumber=HC-089
+
+
+#### 2003 (HC-079) = write.csv(h079,”/Users/alexandergrosek/Desktop/MEPS/h209.csv", row.names = TRUE)
+
+SAS: https://www.meps.ahrq.gov/data_stats/download_data/pufs/h79/h79su.txt
+Link: https://www.meps.ahrq.gov/mepsweb/data_stats/download_data_files_detail.jsp?cboPufNumber=HC-079
+
+
+#### 2002 (HC-070) = write.csv(h070,”/Users/alexandergrosek/Desktop/MEPS/h209.csv", row.names = TRUE)
+
+SAS: https://www.meps.ahrq.gov/data_stats/download_data/pufs/h70/h70su.txt
+Link: https://www.meps.ahrq.gov/mepsweb/data_stats/download_data_files_detail.jsp?cboPufNumber=HC-070
+
+
+#### 2001(HC-060) = write.csv(h060,”/Users/alexandergrosek/Desktop/MEPS/h209.csv", row.names = TRUE)
+
+SAS: https://www.meps.ahrq.gov/data_stats/download_data/pufs/h60/h60su.txt
+Link: https://www.meps.ahrq.gov/mepsweb/data_stats/download_data_files_detail.jsp?cboPufNumber=HC-060
+
+
+#### 2000 (HC-050) = write.csv(h050,”/Users/alexandergrosek/Desktop/MEPS/h209.csv", row.names = TRUE)
+
+SAS: https://www.meps.ahrq.gov/data_stats/download_data/pufs/h50/h50su.txt
+Link: https://www.meps.ahrq.gov/mepsweb/data_stats/download_data_files_detail.jsp?cboPufNumber=HC-050
+
+
+# 1999 (HC-038) = write.csv(h038,”/Users/alexandergrosek/Desktop/MEPS/h209.csv", row.names = TRUE)
+
+SAS: https://www.meps.ahrq.gov/data_stats/download_data/pufs/h38/h38su.txt
+Link: https://www.meps.ahrq.gov/mepsweb/data_stats/download_data_files_detail.jsp?cboPufNumber=HC-038
+
+
+#### 1998 (HC-028) = write.csv(h028,”/Users/alexandergrosek/Desktop/MEPS/h209.csv", row.names = TRUE)
+
+SAS: https://www.meps.ahrq.gov/data_stats/download_data/pufs/h28/h28su.txt
+Link: https://www.meps.ahrq.gov/mepsweb/data_stats/download_data_files_detail.jsp?cboPufNumber=HC-028
+
+
+#### 1997 (HC-020) = write.csv(h020,”/Users/alexandergrosek/Desktop/MEPS/h209.csv", row.names = TRUE)
+
+SAS: https://www.meps.ahrq.gov/data_stats/download_data/pufs/h20/h20su.txt
+Link: https://www.meps.ahrq.gov/mepsweb/data_stats/download_data_files_detail.jsp?cboPufNumber=HC-020
+
+
+#### 1996 (HC-012) = write.csv(h012,”/Users/alexandergrosek/Desktop/MEPS/h209.csv", row.names = TRUE)
+
+SAS: https://www.meps.ahrq.gov/data_stats/download_data/pufs/h12/h12su.txt
+Link: https://www.meps.ahrq.gov/mepsweb/data_stats/download_data_files_detail.jsp?cboPufNumber=HC-012
