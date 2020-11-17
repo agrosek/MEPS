@@ -9,5 +9,5 @@ Annual Consolidated Data -> https://tinyurl.com/yy6qkbh7
 Interactive Summary Tables -> https://www.meps.ahrq.gov/mepstrends/home/index.html 
 MEPS Overview -> https://www.meps.ahrq.gov/mepsweb/ 
 
-REFERENCE GUIDES -> https://github.com/HHS-AHRQ/MEPS/tree/master/Quick_Reference_Guides
+REFERENCE GUIDES -> https://github.com/HHS-AHRQ/MEPS
 TECHNICAL NOTES -> https://meps.ahrq.gov/survey_comp/ic_technical_notes.shtml
